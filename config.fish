@@ -287,6 +287,8 @@ alias tobash="chsh $USER -s bash && echo 'Now log out.'"
 alias tozsh="chsh $USER -s zsh && echo 'Now log out.'"
 alias tofish="chsh $USER -s fish && echo 'Now log out.'"
 
+alias john='~/john-bleeding-jumbo/run/john'
+
 zoxide init fish | source
 ### RANDOM COLOR SCRIPT ###
 # Get this script from my GitLab: gitlab.com/dwt1/shell-color-scripts
