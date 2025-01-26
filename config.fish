@@ -155,6 +155,10 @@ function copy
     end
 end
 
+function easy-rsa
+    command ~/easyrsa/easyrsa $argv
+end
+
 function dirsearch
     command python ~/dirsearch/dirsearch.py $argv
 end
