@@ -40,4 +40,4 @@ SETUVAR fish_pager_color_selected_background:\x2d\x2dreverse
 SETUVAR fish_pager_color_selected_completion:\x1d
 SETUVAR fish_pager_color_selected_description:\x1d
 SETUVAR fish_pager_color_selected_prefix:\x1d
-SETUVAR fish_user_paths:/data/data/com\x2etermux/files/home/\x2elocal/bin\x1e/data/data/com\x2etermux/files/home/\x2ecargo/bin\x1e/data/data/com\x2etermux/files/home
+SETUVAR fish_user_paths:/data/data/com\x2etermux/files/home/\x2elocal/bin\x1e/data/data/com\x2etermux/files/home/\x2ecargo/bin\x1e/data/data/com\x2etermux/files/home/\x2e\x2e/usr/bin/emmet\x2dlanguage\x2dserver\x1e/data/data/com\x2etermux/files/home
