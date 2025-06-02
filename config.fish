@@ -18,6 +18,12 @@ set TERM "xterm-256color"                         # Sets the terminal type
 set EDITOR "nvim"                 # $EDITOR use Emacs in terminal
 set VISUAL "nvim"              # $VISUAL use Emacs in GUI mode
 
+set -gx ANDROID_HOME $HOME/android-sdk
+set -gx PATH $PATH $ANDROID_HOME/cmdline-tools/bin
+set -gx GRADLE_HOME $HOME/gradle/gradle-8.4
+set -gx PATH $PATH $GRADLE_HOME/bin
+
+
 ### SET MANPAGER
 ### Uncomment only one of these!
 
